@@ -4,7 +4,7 @@ import json
 from pyexpat.errors import messages
 
 client = OpenAI(
-    api_key = "sk-xxx",
+    api_key = "sk-arnktcspsrcielntylldhaknxswkvpuqxqjzcwbzyeparuce",
     base_url = "https://api.siliconflow.cn/v1"
 )
 
