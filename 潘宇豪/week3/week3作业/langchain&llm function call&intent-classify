@@ -4,3 +4,9 @@ llm function call 工具调用需要：1. 定义function 2.TOOLS多维度描述f
 langchain工具调用需要： 1. 定义function 2.用langchain实现工具调用
 
 langchain工具调用的速度是受什么影响的？ 1.API调用速度 2. 工具执行速度
+
+
+
+intent-classifly
+利用fastapi，分别用4种方式实现意图识别
+
